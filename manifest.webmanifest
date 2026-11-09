@@ -1,0 +1,16 @@
+{
+  "name": "Wolf Instinct — Unleashed",
+  "short_name": "Wolf Instinct",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#100d16",
+  "theme_color": "#100d16",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
